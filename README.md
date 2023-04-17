@@ -48,4 +48,5 @@ The default credentials for logging in as a `penningmeester` on the Swiftion web
 
 
 
-
+### Authors
+@SteffanvanderWerf02, @NHL-Michel, @Moniquesbg, @jesseoost 
