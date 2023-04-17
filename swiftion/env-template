@@ -1,0 +1,32 @@
+#####################################################
+##### MYSQL details for connecting from the app #####
+#####################################################
+mysql_host=<mysqlhost>
+mysql_username=root
+mysql_password=test
+mysql_port=3306
+mysql_database=<mysqldbname>
+
+#####################################
+###### MongoDB container config #####
+#####################################
+MONGO_URL=mongodb://<user>:<pass>@<host>:<port>/
+MONGODB_DB=<mongodb-db>
+
+#########################
+###### Swiftion API #####
+#########################
+API_TOKEN=TOKEN
+API_PATH=http://<api-host>
+API_PORT=8390
+
+############################
+###### Swiftion Parser #####
+############################
+PARSER_PATH=http://<parser-host>
+PARSER_PORT=2626
+
+###########################
+##### backup purposes #####
+###########################
+CONTAINER_ID=f9
